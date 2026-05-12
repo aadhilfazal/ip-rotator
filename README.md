@@ -1,4 +1,4 @@
-# TOR IP ROTATOR
+# IP ROTATOR
 
 Automated Tor exit IP rotation tool with live terminal dashboard.
 
