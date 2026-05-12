@@ -19,6 +19,14 @@ pip install requests rich stem
 ## Usage
 
 ```bash
+sudo systemctl restart tor
+```
+
+```bash
+sudo netstat -tulpn | grep 9051
+```
+
+```bash
 python ip_rotator.py
 ```
 
